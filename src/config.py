@@ -75,7 +75,7 @@ LOG_MANAGER_CONFIG = {
 # ============================
 # Download Settings
 # ============================
-MAX_FILENAME_LEN = 120  # The maximum length for a file name.
+MAX_FILENAME_LEN = 60  # The maximum length for a file name.
 MAX_WORKERS = 3         # The maximum number of threads for concurrent downloads.
 MAX_RETRIES = 5         # The maximum number of retries for downloading a single media.
 
